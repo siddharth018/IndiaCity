@@ -1494,9 +1494,4 @@ INSERT INTO `cities` (`id`, `cityName`, `cityState`) VALUES
 (1511, 'Pollachi' , 'Tamil Nadu'),
 (1512, 'Gudiyathami' , 'Tamil Nadu'),
 (1513, 'Ambur' ,'Tamil Nadu'),
-(1514, 'Neyveli ,'Tamil Nadu'),
-(1515, 'Bageshwar', 'Uttarakhand'),
-(1516, 'Chamoli', 'Uttarakhand'),
-(1517, 'Gopeshwar', 'Uttarakhand'),
-(1518, 'Rudraprayag', 'Uttarakhand'),
-(1519, 'Tanakpur', 'Uttarakhand');
+(1514, 'Neyveli ,'Tamil Nadu');
